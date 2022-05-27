@@ -11571,6 +11571,18 @@ fieldset:disabled .btn {
     background-attachment: fixed;
 }
 
+.ubody-top-main{
+  background-color:rgba(0, 0, 0, 0.5);
+}
+
+.ubody-info {
+    background-image: url(../image/bg/bg_main2.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 .bg-black {
     background-color: #000;
 }
